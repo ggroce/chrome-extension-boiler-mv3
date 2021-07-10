@@ -1,2 +1,4 @@
 # chrome-extension-boiler-mv3
 Bare bones code for a MV3 Chrome browser  extension.  
+
+Install extension by entering the Extension menu in Chrome or Brave, and activating developer mode.  Select 'Load unpacked', and select the local project directory.  
